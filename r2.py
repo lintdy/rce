@@ -1,5 +1,3 @@
-
-# -*-coding:Latin-1 -*
 import sys, requests, re
 from multiprocessing.dummy import Pool
 from colorama import Fore
